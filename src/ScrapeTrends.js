@@ -191,7 +191,6 @@ class ScrapeTrendsHighChart extends React.Component {
     render() {
         return (
             <React.Fragment>
-                                        <span className="d-block d-lg-none" >78%</span> 
 
                 <div style={{ "padding": "15px", "background": "#fff", "text-align": "center", "color": "#333333", "font-size": "18px", "fill": "#333333", "font-family": "Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif" }}>
                     <div>Mentions over time</div>
@@ -229,7 +228,7 @@ class ScrapeTrendsHighChart extends React.Component {
                             </form>
                             </center>
                         </div>
-
+                        
                         <ReactHighcharts style={{ "position": "absolute", "top": 0, "left": 0 }} config={this.state.config}></ReactHighcharts>
                         
                     </div>}

@@ -35,19 +35,19 @@ import ScrapeTrendsHighChart from './ScrapeTrends.js'
         <a className="nav-link js-scroll-trigger" href="#about">About</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link js-scroll-trigger" href="#experience">r/CryptoCurrency</a>
+        <a className="nav-link js-scroll-trigger" href="#one">r/CryptoCurrency</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link js-scroll-trigger" href="#education">/biz/</a>
+        <a className="nav-link js-scroll-trigger" href="#two">/biz/</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link js-scroll-trigger" href="#skills">ccn.com</a>
+        <a className="nav-link js-scroll-trigger" href="#three">ccn.com</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link js-scroll-trigger" href="#interests">coindesk.com</a>
+        <a className="nav-link js-scroll-trigger" href="#four">coindesk.com</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link js-scroll-trigger" href="#awards">coinmonks.com</a>
+        <a className="nav-link js-scroll-trigger" href="#five">coinmonks.com</a>
       </li>
     </ul>
   </div>
@@ -84,7 +84,7 @@ import ScrapeTrendsHighChart from './ScrapeTrends.js'
 
   <hr className="m-0"/>
 
-  <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+  <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="one">
     <div className="my-auto">
       <h2 className="mb-5">r/cryptocurrency <span className="d-block text-primary">78%</span></h2>
 
@@ -95,7 +95,7 @@ import ScrapeTrendsHighChart from './ScrapeTrends.js'
 
   <hr className="m-0"/>
 
-  <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
+  <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="two">
     <div className="my-auto">
       <h2 className="mb-5">/biz/ <span className="d-block text-primary">78%</span></h2>
 
@@ -106,7 +106,7 @@ import ScrapeTrendsHighChart from './ScrapeTrends.js'
 
   <hr className="m-0"/>
 
-  <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
+  <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="three">
     <div className="my-auto">
       <h2 className="mb-5">ccn.com <span className="d-block text-primary">78%</span> </h2>
 
@@ -117,7 +117,7 @@ import ScrapeTrendsHighChart from './ScrapeTrends.js'
 
   <hr className="m-0"/>
 
-  <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="interests">
+  <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="four">
     <div className="my-auto">
       <h2 className="mb-5">coindesk.com  <span className="d-block text-primary">78%</span> </h2>
       <ScrapeTrendsHighChart/>
@@ -127,7 +127,7 @@ import ScrapeTrendsHighChart from './ScrapeTrends.js'
 
   <hr className="m-0"/> 
 
-  <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="awards">
+  <section className="resume-section p-3 p-lg-5 d-flex flex-column" id="five">
     <div className="my-auto">
       <h2 className="mb-5">coinmonks.com      <span className="d-block text-primary">78%</span> </h2>
       <ScrapeTrendsHighChart/>
