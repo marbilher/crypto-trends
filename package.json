@@ -6,12 +6,16 @@
     "@fortawesome/fontawesome-free": "5.3.1",
     "bootstrap": "^4.1.3",
     "cheerio": "^1.0.0-rc.2",
+    "highcharts": "^6.1.3",
     "jquery": "^3.3.1",
-    "react": "^16.4.2",
+    "react": "^16.5.1",
     "react-dom": "^16.4.2",
+    "react-highcharts": "^16.0.2",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.4",
     "request": "^2.88.0",
-    "request-promise": "^4.2.2"
+    "request-promise": "^4.2.2",
+    "webpack": "^3.11.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -29,6 +33,8 @@
     "gulp-rename": "1.4.0",
     "gulp-sass": "4.0.1",
     "gulp-uglify": "3.0.1",
-    "sass": "^1.13.4"
+    "node-sass": "^4.9.3",
+    "sass": "^1.13.4",
+    "sass-loader": "^7.1.0"
   }
 }
