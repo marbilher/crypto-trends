@@ -8,8 +8,8 @@ import './vendor/bootstrap/css/bootstrap.css'
 import './vendor/bootstrap/css/bootstrap-grid.css'
 import './vendor/bootstrap/css/bootstrap-reboot.css'
 import './vendor/fontawesome-free/css/all.css'
-import './scss/resume.scss'
-
+// import './scss/resume.scss'
+require('./scss/resume.scss')
 
 class App extends Component {
   render() {
